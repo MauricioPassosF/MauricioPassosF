@@ -6,6 +6,9 @@ A experiência na área me preparou para ser um profissional que busca a resolu�
 
 Estou em transição para o setor de tecnologia. Tive meu primeiro contato com a área durante a graduação na UFBA. Posteriormente, a explorei o segmento estudando VBA. Atualmente, estou me formando como desenvolvedor FullStack na Trybe.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioPassosF&show_icons=true&theme=tokyonight&hide=&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioPassosF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- This content will not appear in the rendered Markdown 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
