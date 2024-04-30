@@ -1,3 +1,5 @@
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,2&height=150' />
+
 ### Oi eu sou Maurício, ###
 
 Comecei minha carreira na área de engenharia civil. Em mais de três anos no mercado, atuei em diferentes segmentos, como obras e projetos de engenharia.
@@ -38,6 +40,8 @@ Estou em transição para o setor de tecnologia. Tive meu primeiro contato com a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioPassosF&show_icons=true&theme=tokyonight&hide=&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioPassosF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,2&height=150&fontSize=90&section=footer' />
 <!-- This content will not appear in the rendered Markdown 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
